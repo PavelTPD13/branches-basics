@@ -4,5 +4,7 @@
 
 
 int main(){
-  printf("Hello, World");
+  printf("Hello, World\n");
+  printf("Classwork\n");
+  printf("Roman privet");
 }
