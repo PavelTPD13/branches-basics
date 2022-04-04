@@ -6,5 +6,6 @@
 int main(){
   printf("Hello, World\n");
   printf("Classwork\n");
-  printf("Roman privet");
+  printf("Roman privet\n");
+  printf("Pahan zdarova");
 }
